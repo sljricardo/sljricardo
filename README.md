@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sljricardo
 - 👀 I’m interested in Design, Development and Code in general
-- 🌱 I’m currently learning UX/UI to improve my skills
+- 🌱 I have a certification in Google UX/UI Course.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ricardo-silva-6b916890/)
 
 <!---
