@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ricardo Silva
-=====================================================================================================================================
-
 Developer and Designer
-----------------------
+=====================================================================================================================================
 
 I've always been hooked on computers since my Pentium 200 MMX days. Wrote my first "Hello World" in Pascal and instantly knew I was meant to be a developer. Over a decade later, I’m still coding daily — for clients, personal projects, or just because I can't stop!
 
